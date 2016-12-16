@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rapp-project/rapp-api"
+    "url": "git+https://github.com/ortelio/rapp-api-js"
   },
   "keywords": [
     "robotics",
